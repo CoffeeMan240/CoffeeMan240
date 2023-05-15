@@ -1,5 +1,5 @@
-### Why Hello there
-i'm a sussy coffee mug that makes a game and does various things on this platform.
+### hello 
+i'm a sussy coffee mug that makes a few servers and does various things on this platform.
 <!--
 **CoffeeMan240/CoffeeMan240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
