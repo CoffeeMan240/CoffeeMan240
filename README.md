@@ -1,4 +1,4 @@
-i'm a coffee mug that does things :)
+Hai! I'm a silly coffee mug that does stuff!! :3
 <!--
 **CoffeeMan240/CoffeeMan240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
